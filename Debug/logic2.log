@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\zorro\source\repos\logic2\Source.cpp(61,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic2\Source.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic2\Source.cpp(99,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\zorro\source\repos\logic2\Source.cpp(266,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  logic2.vcxproj -> C:\Users\zorro\source\repos\logic2\Debug\logic2.exe
